@@ -1,10 +1,10 @@
-plugins {
+一.plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
 }
 
 android {
-    namespace 'com.stand.sounder_template'
+    namespace 'com.mb.mobaihemohei.template'
     compileSdk 36
 
     defaultConfig {
